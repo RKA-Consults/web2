@@ -2,3 +2,5 @@
 
 Welcome to this content
 
+Contributors guide
+
